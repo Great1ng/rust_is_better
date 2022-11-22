@@ -1,5 +1,5 @@
 [package]
-name = "tatas_spinlock"
+name = "rust_is_better"
 version = "0.1.0"
 edition = "2021"
 
